@@ -1,0 +1,21 @@
+Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death,URL,Info Giver,Ages,Age Recover,Age Death,Female Infected,Male Infected
+1-Mar-20,0,84,,Nairobi,0,No Case,0,0,https://bit.ly/347MFfO,Kagwe,,,,,
+13-Mar-20,1,27,United States,Nairobi,1,Import,0,0,,,26,,,,
+15-Mar-20,2,,,Nairobi,3,Community,0,0,https://bit.ly/39HhYiJ,Uhuru,,,,,
+17-Mar-20,1,,London,Nairobi,4,Import,0,0,https://bit.ly/347MFfO,Kagwe,,,,,
+18-Mar-20,3,7,"Spain[2] , Dubai[1]",Nairobi,7,Import,0,0,https://bit.ly/2RbTpnB,Kagwe,,,,,
+19-Mar-20,0,,,,7,No Case,0,0,,,,,,,
+20-Mar-20,0,1,,,7,No Case,0,0,https://bit.ly/2xQqU80,Kagwe,,,,,
+22-Mar-20,8,,"United States, France, Europe","Nairobi, Msambweni",15,Import,0,0,https://bit.ly/2V4gSrM,Kagwe,20 - 67,,,,
+23-Mar-20,1,,,Nairobi,16,Community,0,0,,Kagwe,,,,,
+24-Mar-20,9,82,,"Narobi, Mombasa,Kilifi(5),Kwale",25,"Community(2),Import(7)",0,0,https://bit.ly/2xKjH9M,Kagwe,,,,,
+25-Mar-20,3,,,Nairobi,28,Import,1,0,https://bit.ly/3bOlnO4,Uhuru,,27,,,
+26-Mar-20,3,74,,"Nairobi, Kajiado, Mombasa, Kilifi",31,Community,0,1,http://www.health.go.ke/press-releases/,Mercy,30-61,,66,18,24
+28-Mar-20,7,81,"China, Congo",Nairobi,38,"Community (3),Import (4)",0,0,,,,,,,
+29-Mar-20,4,69,"United States, Cameroon, Burkina Faso","Nairobi(3), Mombasa (1)",42,"Community (1),Import (3)",0,0,,,,,,,
+30-Mar-20,8,172,,"Kitui(1),Nairobi(6),Mombasa(1)",50,Community,0,0,,,,,,0,2
+31-Mar-20,9,234,,,59,Community,0,0,,,,,,,
+1-Apr-20,22,380,"Pakistan(2),Cameroon(2)","Mombasa(7),Kiambu(2), Kakamega(1),Kilifi(1),Machakos(1), Muranga(1), Nyamira(1), Nairobi(1)",81,Community,1,0,,,23-71,,,9,13
+2-Apr-20,29,662,Congolese(1),Nairobi,110,Community,0,2,https://bit.ly/2R8KgMI,Kagwe,16-64,,,16,13
+3-Apr-20,12,,Somali(1),Nairobi,122,Community,0,1,,,28-68,,6,,
+4-Apr-20,4,372,"Pakistan(1),Kenyan(3)",Nairobi,126,Community,,,,Kagwe,34-44,,,1,3
