@@ -1,7 +1,7 @@
 Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death,URL,Info Giver,Ages,Age Recover,Age Death,Female Infected,Male Infected
 1-Mar-20,0,84,,Nairobi,0,No Case,0,0,https://bit.ly/347MFfO,Kagwe,,,,,
 13-Mar-20,1,27,United States,Nairobi,1,Import,0,0,,,26,,,,
-15-Mar-20,2,,,Nairobi,3,Community,0,0,https://bit.ly/39HhYiJ,Uhuru,,,,,
+15-Mar-20,2,,United States,Nairobi,3,Import,0,0,https://bit.ly/39HhYiJ,Uhuru,,,,,
 17-Mar-20,1,,London,Nairobi,4,Import,0,0,https://bit.ly/347MFfO,Kagwe,,,,,
 18-Mar-20,3,7,"Spain[2] , Dubai[1]",Nairobi,7,Import,0,0,https://bit.ly/2RbTpnB,Kagwe,,,,,
 19-Mar-20,0,,,,7,No Case,0,0,,,,,,,
