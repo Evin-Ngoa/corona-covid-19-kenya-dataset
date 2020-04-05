@@ -15,8 +15,8 @@ Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death
 29-Mar-20,4,69,"United States, Cameroon, Burkina Faso","Nairobi(3), Mombasa (1)",42,"Community (1),Import (3)",0,0,,,,,,,
 30-Mar-20,8,172,,"Kitui(1),Nairobi(6),Mombasa(1)",50,Community,0,0,,,,,,0,2
 31-Mar-20,9,234,,,59,Community,0,0,,,,,,,
-1-Apr-20,22,380,"Pakistan(2),Cameroon(2)","Mombasa(7),Kiambu(2), Kakamega(1),Kilifi(1),Machakos(1), Muranga(1), Nyamira(1), Nairobi(1)",81,Community,1,0,,,23-71,,,9,13
-2-Apr-20,29,662,Congolese(1),Nairobi,110,Community,0,2,https://bit.ly/2R8KgMI,Kagwe,16-64,,,16,13
+1-Apr-20,22,380,"Pakistan(2),Cameroon(2)","Mombasa(7),Kiambu(2), Kakamega(1),Kilifi(1),Machakos(1), Muranga(1), Nyamira(1), Nairobi(1)",81,Community,2,0,,,23-71,,,9,13
+2-Apr-20,29,662,Congolese(1),Nairobi,110,Community,1,2,https://bit.ly/2R8KgMI,Kagwe,16-64,,,16,13
 3-Apr-20,12,,Somali(1),Nairobi,122,Community,0,1,,,28-68,,6,,
 4-Apr-20,4,372,"Pakistan(1),Kenyan(3)",Nairobi,126,Community,0,0,,Kagwe,34-44,,,1,3
 5-Apr-20,16,530,Nigerian(1),"Nairobi(12), Kilifi(1),Mombasa(3)",142,"Community(5), Imported(11)",0,0,,Mercy,22-66,,,7,9
