@@ -1,7 +1,7 @@
 Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death,URL,Info Giver,Ages,Age Recover,Age Death,Female Infected,Male Infected
 1-Mar-20,0,84,,Nairobi,0,No Case,0,0,https://bit.ly/347MFfO,Kagwe,,,,,
 13-Mar-20,1,27,United States,Nairobi,1,Import,0,0,,,26,,,,
-15-Mar-20,2,,United States,Nairobi,3,Import,0,0,https://bit.ly/39HhYiJ,Uhuru,,,,,
+15-Mar-20,2,,United States,Nairobi,3,Community,0,0,https://bit.ly/39HhYiJ,Uhuru,,,,,
 17-Mar-20,1,,London,Nairobi,4,Import,0,0,https://bit.ly/347MFfO,Kagwe,,,,,
 18-Mar-20,3,7,"Spain[2] , Dubai[1]",Nairobi,7,Import,0,0,https://bit.ly/2RbTpnB,Kagwe,,,,,
 19-Mar-20,0,,,,7,No Case,0,0,,,,,,,
@@ -20,3 +20,4 @@ Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death
 3-Apr-20,12,,Somali(1),Nairobi,122,Community,0,1,,,28-68,,6,,
 4-Apr-20,4,372,"Pakistan(1),Kenyan(3)",Nairobi,126,Community,0,0,,Kagwe,34-44,,,1,3
 5-Apr-20,16,530,Nigerian(1),"Nairobi(12), Kilifi(1),Mombasa(3)",142,"Community(5), Imported(11)",0,0,,Mercy,22-66,,,7,9
+6-Apr-20,16,4277,,,158,,0,0,,Uhuru,,,,,
