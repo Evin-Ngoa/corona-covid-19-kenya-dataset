@@ -12,8 +12,8 @@ Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death
 25-Mar-20,3,,,Nairobi,28,Import,1,0,https://bit.ly/3bOlnO4,Uhuru,,27,,,
 26-Mar-20,3,74,,"Nairobi, Kajiado, Mombasa, Kilifi",31,Community,0,1,http://www.health.go.ke/press-releases/,Mercy,30-61,,66,18,24
 28-Mar-20,7,81,"China, Congo",Nairobi,38,"Community (3),Import (4)",0,0,,,,,,,
-29-Mar-20,4,69,"United States, Cameroon, Burkina Faso","Nairobi(3), Mombasa (1)",42,"Community (1),Import (3)",0,0,,,,,,,
-30-Mar-20,8,172,,"Kitui(1),Nairobi(6),Mombasa(1)",50,Community,0,0,,,,,,0,2
+29-Mar-20,4,69,"United States, Cameroon, Burkina Faso","Nairobi(3), Mombasa ",42,"Community (1),Import (3)",0,0,,,,,,,
+30-Mar-20,8,172,,"Kitui(1),Nairobi(6),Mombasa",50,Community,0,0,,,,,,0,2
 31-Mar-20,9,234,,,59,Community,0,0,,,,,,,
 1-Apr-20,22,380,"Pakistan(2),Cameroon(2)","Mombasa(7),Kiambu(2), Kakamega(1),Kilifi(1),Machakos(1), Muranga(1), Nyamira(1), Nairobi(1)",81,Community,2,0,,,23-71,,,9,13
 2-Apr-20,29,662,Congolese,Nairobi,110,Community,1,2,https://bit.ly/2R8KgMI,Kagwe,16-64,,,16,13
