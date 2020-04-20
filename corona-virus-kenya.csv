@@ -21,7 +21,7 @@ Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death
 4-Apr-20,4,372,"Pakistan,Kenyan(3)",Nairobi,126,Community,0,0,,Kagwe,34-44,,,1,3
 5-Apr-20,16,530,Nigerian,"Nairobi(12), Kilifi(1),Mombasa(3)",142,"Community(5), Imported(11)",0,0,,Mercy,22-66,,,7,9
 6-Apr-20,16,441,,,158,,0,2,,Uhuru,,,,,
-7-Apr-20,14,696,"Tanzania, UAE, South Africa, United States","Nairobi(7), Mombasa(2), Machakos (1), Kisii(1), Kiambu (1) Mandera (2)",172,"Community(10),Imported(4)",4,0,,Kagwe,,,,,
+7-Apr-20,14,696,"Tanzania, UAE, South Africa, United States","Nairobi(7), Mombasa(2), Machakos (1), Kisii(1), Kiambu (1) Mandera (2)",172,"Community(10),Imported(4)",5,0,,Kagwe,,,,,
 8-Apr-20,7,305,"Congo, United States, UK(2)","Nairobi, Mombasa, Uasin Ngishu",179,"Community(4), Imported(3)",0,0,,Mercy,,,,,
 9-Apr-20,5,308,"Tanzania, UAE, UK","Nairobi (3) , Mombasa(2)",184,"Community(2),Import(3)",4,0,,,39-77,,,2,3
 10-Apr-20,5,504,UAE,"Nairobi,Mombasa,Nyandarua(3)",189,"Community(4), Imported",10,0,,,27-58,,,3,2
@@ -31,3 +31,7 @@ Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death
 14-Apr-20,8,694,"UAE(2),UK,Pakistan,Zambia,Comoros","Nairobi(6),Siaya,Nakuru",216,"Community(2), Imported(6)",0,0,,,,,,,
 15-Apr-20,9,803,None,"Nairobi(5), Mombasa(4)",225,Community(9),12,1,,,9-69.,,,,
 16-Apr-20,9,704,,,234,,0,0,,,2-64.,,,,
+17-Apr-20,12,450,,,246,Community(5),0,0,,,,,,,
+18-Apr-20,16,1115,,"Nairobi(9),Mombasa(5), Homabay(1)",262,Community(16),7,1,,,23-84,,,4,12
+19-Apr-20,8,1330,,,270,Community(8),7,2,,,17-65,,,,
+20-Apr-20,11,,,"Mombasa(7),Nairobi(4)",281,Community(11),2,0,,,11-80.,,,6,5
