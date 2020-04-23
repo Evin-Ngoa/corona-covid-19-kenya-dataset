@@ -36,4 +36,5 @@ Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death
 19-Apr-20,8,1330,,,270,Community(8),7,2,,,17-65,,,,
 20-Apr-20,11,,,"Mombasa(7),Nairobi(4)",281,Community(11),2,0,,Kagwe,11-80.,,,5,6
 21-Apr-20,15,545,None,"Mombasa(7),Nairobi(6),Mandera(2)",296,Community(15),5,0,,Mercy,19-75,,,8,7
-22-Apr-20,7,707,,,303,Community(7),,,,,,,,,
+22-Apr-20,7,707,,,303,Community(7),0,0,,,,,,,
+23-Apr-20,17,668,None,"Mombasa(12),Nairobi(3)",320,Community(17),0,0,,Mercy,,,,,
