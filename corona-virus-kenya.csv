@@ -43,3 +43,4 @@ Date ,New Cases,Tested,Travelled From,County,Aggregation,Case Type,Recover,Death
 26-Apr-20,12,,None,"Mombasa(4),Nairobi(8)",355,Community(12),8,0,,,14-60,,,,
 27-Apr-20,8,366,None,"Mombasa(4),Nairobi(3),Kwale(1)",363,Community(8),0,0,,,13-65,,,,
 28-Apr-20,11,579,None,"Mombasa(4),Nairobi(7)",374,Community(11),10,0,,,3-75.,,,,
+29-Apr-20,10,508,None,"Mombasa(9),Nairobi(1)",384,Community(10),5,0,,Mercy,,,,4,6
